@@ -13,4 +13,4 @@ Sam projekt ima tri dokumenta:
 
 
 GitHub:		https://github.com/JurajNovakTVZ/XML_Projekt 
-YouTube:	
+YouTube:	https://youtu.be/LhMDBZ4Ivpo
