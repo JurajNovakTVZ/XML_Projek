@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Style.css"?>
+<document>
+	<title>Pregled unosa aktivnosti</title> 
+	<upis>
+		<name>Pero Perić</name>
+		<date>05/01/2020</date>
+		<activity>BrzoHodanje</activity>
+		<time>60</time>
+		<lenght>8</lenght>
+	</upis>
+	<upis>
+		<name>Jura Jurić</name>
+		<date>05/05/2020</date>
+		<activity>Trcanje</activity>
+		<time>30</time>
+		<lenght>5</lenght>
+	</upis>
+	<upis>
+		<name>Miro Mirić</name>
+		<date>05/10/2020</date>
+		<activity>VoznjaBicikla</activity>
+		<time>120</time>
+		<lenght>62</lenght>
+	</upis>
+	<upis>
+		<name>Mia Mijić</name>
+		<date>05/13/2020</date>
+		<activity>Rolanje</activity>
+		<time>180</time>
+		<lenght>3</lenght>
+	</upis>
+</document>
